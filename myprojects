@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CJ's Garage</title>
+<style>
+body {background-color: #EBEDEF;}
+</style>
+  </head>
+<body>
+<table style="width:100%">
+  <tr>
+    <td>
+    <h1>Welcome to Ocho's Journey!</h1>
+	<h2>Home of "Ocho" the chalk bug of Local Volks!</h2>
+	<p><sub>____________________________________________________________________________________________</sub></p></td>
+    <td>
+		<table style="width:100%">
+		<tr>
+		<td><img src="youtubelogo.png" width="50" height="50"> <a href="youtube.com">Subscribe to our YouTube channel!</a></td>
+		</tr>
+</table></td>
+  </tr>
+</table>
+<br>
+<center>
+<br>
+<table style="width:100%">
+  <tr>
+    <td>
+	<h3>Here is where you put a slogan</h3>
+	<p>This is a webpage dedicated to the documentation of all important repairs and processes on "Ocho" the Chalk Bug of Local Volks. [here is where you start to fill in your own information. I don't know what to put here, I'm just working on the design for you. What do you want people to know about your car? put that here. Pictures of metalwork, power tool things, or whatever you think should be considered important to the improvement and repair to your car.]</p>
+	<p>Now here's where you write about yourself as a person. What do you do in the community that you're part of? What type of person are you here? Do people know you for something in particular? I know you mentioned something about being pretty good at fixing aircooled volkswagens.</p>
+    </td>
+    <td><img src="image4.jpeg" width="300" height="300"></td>
+  </tr>
+</table>
+<ul>
+  <li>List item</li>
+  <li>List item</li>
+  <li>List item</li>
+</ul>
+</center>
+<br>
+<br>
+<br>
+<center>
+<p><small>"CJ's Aircooled Garage" Copyright © 2021, All rights reserved</small></p>
+</center>
+</body>
+</html>
